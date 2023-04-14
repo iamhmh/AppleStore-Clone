@@ -4,7 +4,6 @@ Ceci est un clone de la page d'accueil de l'Apple Store.
 ## Installation
 ```bash
 git clone
-cd AppleStore
 npm install
 ```
 
